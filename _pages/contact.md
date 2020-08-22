@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## Mailing address
-Department of Economics </br>
-455 Uris Hall </br>
+Department of Economics <br>
+455 Uris Hall <br>
 Ithaca NY 14850
 
 ## Email address
