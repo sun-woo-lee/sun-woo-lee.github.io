@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D., Economics, Cornell University, 2021
 * M.A., Economics, Cornell University, 2018
-* B.A., Economics, Corenll University, 2014
+* B.A., Economics, Cornell University, 2014
 
 Research Fields
 ======
