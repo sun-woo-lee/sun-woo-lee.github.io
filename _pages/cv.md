@@ -62,7 +62,7 @@ Honors, Scholarships, and Fellowhips
 Skills
 ======
 * <em> Programming </em>: MATLAB, Julia, Stata, Python
-* <em> Language </em>: Englsih (fluent), Korean (native), Chinese (intermediate)
+* <em> Language </em>: English (fluent), Korean (native), Chinese (intermediate)
 
 Personal Information
 ======
