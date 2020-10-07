@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in the Department of Economics, Cornell Univeresity.
+I am a Ph.D. candidate in the Department of Economics, Cornell Univeresity.
+
+My research interests are macroeconomics, banks, and firm dynamics.
