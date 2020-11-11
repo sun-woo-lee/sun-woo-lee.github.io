@@ -25,10 +25,10 @@ Macroeconomics, banks, firm dynamics
 Working Papers
 ======
 * Lending Terms and Industry Dynamics: the Role of Small Banks
+* Foreign Currency Exposure and Bank Lending Channel: Evidence for Emerging Europe (with Isha Agarwal, UBC, and Richard Varghese, IMF)
 
 Work in Progress
 ======
-* Foreign Currency Exposure and Bank Lending Channel: Evidence for Emerging Europe (with Isha Agarwal, UBC, and Richard Varghese, IMF)
 * Community Bank Mergers and the Impact on Local Mortgage Supply
 
 Research Experience and other Employment
