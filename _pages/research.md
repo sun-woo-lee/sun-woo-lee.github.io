@@ -13,7 +13,7 @@ Working Papers
 
 
 
-Foreign Currency Exposure and Bank Lending Channel: Evidence for Emerging Europe (with Isha Agarwal, UBC, and Richard Varghese, IMF)
+Foreign Currency Exposure and Bank Lending Channel: Evidence for Emerging Europe (with Richard Varghese, IMF)
 
 >This paper constructs a novel bank level dataset on foreign currency denominated assets and liabilities in emerging market economies in Europe to study how banks' foreign currency exposure affects the transmission of exchange rate shocks to the real economy. Using bank balance sheet data, we show that following home currency depreciation banks with net foreign liabilities lend less  relative to banks without net foreign liabilities. This reduction in lending growth is economically significant with an  average home currency depreciation during the sample period associated with 5 percentage point lower loan growth for banks with net foreign currency liabilities. Our results are robust to alternate econometric specifications and measures of foreign currency exposure, the choice of foreign currency, and banks' ownership type. The inclusion of off-balance sheet positions that could be utilised to hedge foreign currency exposure too does not affect our results.
 
