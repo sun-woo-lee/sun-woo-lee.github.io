@@ -20,4 +20,4 @@ Foreign Currency Exposure and Bank Lending Channel: Evidence for Emerging Europe
 Work in Progress
 ======
 Community Bank Mergers and the Impact on Local Mortgage Supply
->This paper uses MSA-level variation in the exposure to bank mergers to test potential channels through which bank mergers affect local credit supply, including the loss of local information from branch closings, the change in affected banks' organizational structure, and the change in local market power of involved banks. The type of mergers and the market share of affected branches determine the sign and magnitude of correlations between bank mergers and loan characteristics. I document that bank mergers are associated with lower loan spreads, higher borrower credit scores, and lower loan-to-value ratios on average. My results suggest that the correlation is strongest if there were branch closings resulting from mergers, especially when the closed branches are replaced with incumbent branches of acquiring banks.
+
